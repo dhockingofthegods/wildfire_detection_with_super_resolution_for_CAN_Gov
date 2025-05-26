@@ -1,4 +1,4 @@
-# 🔥 Forest Fire Detection with Super-Resolution Enhancement
+# 🔥 WildFire Detection with Super-Resolution Enhancement
 
 ## 📌 Mục tiêu
 Nghiên cứu và đánh giá hiệu quả của mô hình siêu phân giải trong việc cải thiện độ chính xác của mô hình nhận diện cháy rừng từ ảnh vệ tinh hoặc ảnh chụp từ xa.
